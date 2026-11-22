@@ -1,0 +1,8 @@
+{
+  "name": "ShipFlow — Quản Lý & Phân Bổ Shipper",
+  "description": "Hệ thống điều phối đơn hàng giao nhận thông minh, bóc tách tin nhắn Zalo bằng Gemini AI, gom cụm khu vực và theo dõi giao hàng thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
